@@ -5,5 +5,5 @@ import androidx.navigation.NavHostController
 import com.borshevskiy.moviescompose.MainViewModel
 
 @Composable
-fun DetailsScreen(navController: NavHostController, viewModel: MainViewModel) {
+fun DetailsScreen(navController: NavHostController, viewModel: MainViewModel, itemId: String) {
 }
